@@ -33,5 +33,5 @@ pip install pandas matplotlib
 ---
 
 # 📂 Project Structure
-main.py - The primary analysis script.
-data/students.csv - The raw dataset containing study habits and scores.
+- **main.py** - The primary analysis script.
+- **data/students.csv** - The raw dataset containing study habits and scores.
