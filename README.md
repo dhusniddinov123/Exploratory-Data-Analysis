@@ -28,6 +28,9 @@ To run this project, you need to install the following Python libraries:
 
 ```bash
 pip install pandas matplotlib
+```
+
+---
 
 # 📂 Project Structure
 main.py - The primary analysis script.
